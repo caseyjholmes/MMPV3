@@ -14,4 +14,5 @@ J1,2,3,4,5,6,8,9   MONO  THONKICONN            WQP-PJ301M-12_JACK 3.5mm socket f
 J7         STEREO        THONKICONN            WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                                                                                                                                                                                                                                    
 J15        power         CONN_05X2PTH          2X5                Euro Power Header     
 1VOL,2VOL,3VOL,4VOL,5VOL 1MA                   9MM_SNAP-IN_POT_   9MM_SNAP-IN_POT, Alpha / Panasonic style    
-VOL,PAN    10K           9MM_SNAP-IN_POT       9mm vertical snap-in pot, Alpha / Panasonic style                                                                                             
+VOL        10K           9MM_SNAP-IN_POT       9mm vertical snap-in pot, Alpha / Panasonic style 
+PAN        B1M           9MM_SNAP-IN_POT                                                                                                  
