@@ -1,0 +1,24 @@
+Qty Value         Device                Package            Parts                                                                                                                                                           
+13  100K          R-US_M0805            M0805              R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R23, R24                                                                                                                                  
+4   100n          C-USC0805             C0805              C8, C9, C10, C11                                                                                                                                                                           
+2   10k           R-US_M0805            M0805              R18, R19 (change from 1k to 10k to 30k to adjust PAN response curve)                                                                                                                                                                                    
+5   10k*          R-US_M0805            M0805              R20, R21, R27, R28, R29 (input                                                                                                                                                                     
+5   10uf**        C-USC0805K            **see below        C1, C2, C3, C4, C5                                                                                                                                  
+8   1K            R-US_M0805            M0805              R1, R2, R3, R4, R5, R17, R22, R25, R26                                                                                                                                                                                                                                                                                                                                                        RESISTOR, American symbol                                                                                                                                 
+1   24k9          R-US_M0805            M0805              R30                                                                                                                                                                                         
+2   47uf          CPOL-USD              PANASONIC_D        C6, C7                                                                                                                                                                                                                                                                                                      
+1   LEFT          THONKICONNNEW         WQP-PJ301M-12_JACK J7                                                                                                                                                                            
+1   MB1S          MB1S                  SOIC-4             D1                                                                                                                                                                                            
+1   Stereo        THONKICON             Green stereo thonkiconn jack                                           
+7   THONKICONNNEW THONKICONNNEW         WQP-PJ301M-12_JACK J1, J2, J3, J4, J5, J6, J8                                    
+2   TL074         TL074_SMD             SO14               IC1, IC2                                                                                                                                                                                         
+1   A10k          9MM_SNAP-IN_POT_      9MM_SNAP-IN_POT    MASTER_VOL 
+1   B100K         9MM_SNAP-IN_POT_      9MM_SNAP-IN_POT    PAN   
+5   1MA           9MM_SNAP-IN_POT_      9MM_SNAP-IN_POT    1VOL, 2VOL, 3VOL, 4VOL, 5VOL CHANNEL VOLUME                                                                                                                                                        
+6   green         LED5MM flat top       Flat-Top LED5MM    1LED, 2LED, 3LED, 4LED, 5LED, POWER_LED                                                                                                                                                                            
+5   on/on         MTS-102 Ebay          MTS-102 on/on      1SW, 2SW, 3SW, 4SW, 5SW MUTE                                                                                                                                                                                             
+1   power         CONN_05X2PTH          2X5 pin header     J15 EUROPOWER HEADER                                                               
+
+
+* Used for base attenuation. Short with solder blob for no input base attenuation. Value from 1k (1%) to 100k (10%).
+** Used for A/C coupling inputs. Short with solder blob for DC inputs.
